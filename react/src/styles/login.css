@@ -1,0 +1,11 @@
+.login{
+    width: 100%;
+    height: 100dvh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.login form{
+    display: grid;
+    gap: 1rem;
+}
